@@ -123,7 +123,7 @@ alias freshclam='sudo freshclam'
 alias vi='nvim'
 alias svi='sudo vi'
 alias vis='nvim "+set si"'
-alias g='cd /home/reza/github'
+alias g='cd /home/r/github'
 # scrip reza pace
 alias c='clear'
 alias v='code .'
