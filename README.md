@@ -11,9 +11,15 @@
     ```
 
     ```bash
-    sudo chmod 775 setup.sh
+    sudo chmod 775 bash.sh
     ```
 
     ```bash
-   sudo ./bash.sh
+   ./bash.sh
    ```
+
+## after install 
+
+after install you can install caskaydia cove font for better view of terminal
+
+after that restart your terminal and enjoy 
