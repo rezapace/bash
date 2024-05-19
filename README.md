@@ -3,7 +3,7 @@
 ## Introduction
 
    ```bash
-    mkdir ~/github && cd ~/github
+    [ -d ~/github ] && cd ~/github || mkdir ~/github && cd ~/github
    ```
 
    ```bash
