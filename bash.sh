@@ -28,5 +28,11 @@ sudo cp starship.toml ~/.config/
 # Langkah 8: Menjalankan file setup.sh
 ./setup.sh
 
+# Langkah 9: menambahkan fornt pada terminal
+sudo mkdir -p /usr/share/fonts/truetype/
+sudo cp font.ttf /usr/share/fonts/truetype/
+sudo fc-cache -fv
+gsettings set org.gnome.desktop.interface monospace-font-name 'font 12'
+
 # Langkah 9: Ikuti instruksi pada layar untuk mengkonfigurasi prompt dan instalasi berbagai alat
 echo "Selamat mencoba!"
