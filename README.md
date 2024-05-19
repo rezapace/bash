@@ -1,4 +1,19 @@
-# bash
- Scrip custom bash tema mengunakan Starship berikut adalah screenshoot nya :
+# Bash Shell 
 
-![Tampilan](https://github.com/rezapace/bash/blob/main/tampilan.jpg?raw=true)
+## Introduction
+
+    ```bash
+    git clone https://github.com/rezapace/bash
+    ```
+
+    ```bash
+    cd bash
+    ```
+
+    ```bash
+    sudo chmod 775 setup.sh
+    ```
+
+    ```bash
+   sudo ./bash.sh
+   ```
